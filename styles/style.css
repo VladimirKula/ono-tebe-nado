@@ -60,7 +60,7 @@
 
 .cover {
   position: relative;
-  background-image: url(../image/lotus-flower.svg);
+  background-image: url(../images/lotus-flower.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -186,15 +186,15 @@
 }
 
 .card_type_film {
-  background-image: url(../image/film.svg);
+  background-image: url(../images/film.svg);
 }
 
 .card_type_book {
-  background-image: url(../image/book.svg);
+  background-image: url(../images/book.svg);
 }
 
 .card_type_picture {
-  background-image: url(../image/picture.svg);
+  background-image: url(../images/picture.svg);
 }
 
 .card__title {
